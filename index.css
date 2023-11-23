@@ -1,3 +1,22 @@
+.body{
+    backgorund-color: #7e8999;
+}
+.card-body {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  max-width: fit-content;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
+.card-header {
+  padding: 50px 50px 50px;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  text-align: center;
+}
 .sidebar-wrap {
     width: 60px;
     height: 100vh;
